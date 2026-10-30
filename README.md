@@ -3,7 +3,7 @@
 An explorable, sandbox-style browser game that turns my resume into a 3D world.
 Each job and school is a building on the map. Walk up to one and press **E** to read what I did there.
 
-**Play it:** https://YOUR-USERNAME.github.io/adventure-resume/
+**Play it:** https://FriedRiceyyy.github.io/adventure-resume/
 
 ---
 
